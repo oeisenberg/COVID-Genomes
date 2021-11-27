@@ -1,8 +1,7 @@
 # COVID Genomes
 Data taken from [NCBI](https://www.ncbi.nlm.nih.gov/ "National Center for Biotechnology Information")'s Gene Bank.
 
-[NCBI](https://www.ncbi.nlm.nih.gov/ "National Center for Biotechnology Information")
-
+_This is a fun project into genetic sequencing of SARS-CoV, not to be taken as serious academic research_
 
 ## Definitions
 - Gene Primer: 
