@@ -15,3 +15,7 @@ _This is a fun project into genetic sequencing of SARS-CoV, not to be taken as s
 
 ## Articles
 - [Genomic Sequence from Nepal](https://journals.asm.org/doi/10.1128/MRA.00169-20 "Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal")
+
+## Websites
+- [Outbreaks](https://outbreak.info/ "Outbreak information")
+- [WHO Variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/ "Tracking SARS CoV 2 variants")
